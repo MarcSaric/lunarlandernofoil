@@ -2,7 +2,7 @@
 
 See <https://nasa3d.arc.nasa.gov/detail/lunarlandernofoil-c> for the source model (also on GitHub: <https://github.com/nasa/NASA-3D-Resources>).
 
-A hack project to have a blender to three.js export, which may be used somehow in conjunction with <https://github.com/siravan/moonjs> to create a LEM simulator with real code.
+A hack project to have a blender to <https://github.com/mrdoob/three.js/> export, which may be used somehow in conjunction with <https://github.com/siravan/moonjs> to create a LEM simulator with real code.
 
 ## Links
 
