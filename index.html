@@ -20,7 +20,7 @@
     <script src="js/three.min.js"></script>
     <script>
         var scene = new THREE.Scene();
-        var loader = new THREE.GLTFLoader(); // Currently fails, does not seem to be contained in three.min.js, we need node.
+        var loader = new THREE.GLTFLoader(); // FIXME: Currently fails, does not seem to be contained in three.min.js, we need node.
 
         loader.load('lunarlandernofoil_carbajal.glb', function (gltf) {
             scene.add(gltf.scene);
